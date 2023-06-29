@@ -39,3 +39,8 @@
     color: green;
 
     }
+    .center {
+      float: center;
+      margin: auto;
+      display: block;
+    }
